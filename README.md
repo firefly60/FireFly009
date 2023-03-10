@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firefly009&label=Profile%20views&color=0e75b6&style=flat" alt="firefly009" /> </p>
-(img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEme6sCJc8t4_eAI5uIiVFJrk5soI4-q9TcZkiKcMB8oZJjiWR3ktZ7ef5hLuO8arBDA4&usqp=CAU")
 
 - 🌱 I’m currently learning **java,python**
 
